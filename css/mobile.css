@@ -1,0 +1,43 @@
+/* mobile.css */
+
+/* Estilos específicos para dispositivos móviles */
+
+/* Ajustar estilos de navegación para pantallas pequeñas */
+.navbar-collapse {
+    justify-content: center; /* Centrar los elementos del menú */
+  }
+  
+  .navbar-nav {
+    margin-top: 10px; /* Añadir un espacio superior para separar el menú del contenido */
+  }
+  
+  .navbar-brand {
+    margin-right: 0; /* Eliminar el margen derecho del logo o título */
+  }
+  
+  .navbar-toggler {
+    margin-right: 0; /* Eliminar el margen derecho del botón del menú desplegable */
+  }
+  
+  /* Estilos para imágenes en el carrusel */
+  .carousel-item img {
+    max-height: 300px; /* Limitar la altura de las imágenes del carrusel */
+  }
+  
+  /* Estilos para el pie de página en dispositivos móviles */
+  footer {
+    margin-top: 30px; /* Añadir espacio superior para separar el pie de página del contenido */
+  }
+  
+  /* Estilos para el logo de Instagram */
+  .logoig {
+    width: 50px; /* Tamaño del logo de Instagram */
+    margin-top: 10px; /* Espacio superior para separar el logo de Instagram del texto */
+  }
+  
+  /* Ajustar tamaño de fuente para una mejor legibilidad en dispositivos móviles */
+  h1, h2, p {
+    font-size: 16px; /* Tamaño de fuente ajustado para una mejor legibilidad */
+  }
+  
+  

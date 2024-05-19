@@ -1,0 +1,47 @@
+/* desktop.css */
+
+/* Estilos específicos para pantallas de escritorio */
+
+/* Ajustar estilos de navegación para pantallas grandes */
+.navbar {
+    padding: 20px 0; /* Agregar un relleno superior e inferior para el menú de navegación */
+  }
+  
+  .navbar-nav {
+    margin-top: 0; /* Eliminar el espacio superior del menú de navegación */
+  }
+  
+  .navbar-brand {
+    margin-right: 20px; /* Añadir margen derecho al logo o título */
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end; /* Alinear los elementos del menú a la derecha */
+  }
+  
+  /* Estilos para el carrusel en pantallas de escritorio */
+  .carousel-item img {
+    max-height: 300px; 
+    height: 50px;/* Ajustar la altura máxima de las imágenes del carrusel */
+  }
+  
+  /* Estilos para el pie de página en pantallas de escritorio */
+  footer {
+    margin-top: 50px; /* Añadir un espacio superior mayor para separar el pie de página del contenido */
+  }
+  
+  /* Estilos para el logo de Instagram en pantallas de escritorio */
+  .logoig {
+    width: 60px; /* Tamaño del logo de Instagram */
+    margin-top: 20px; /* Espacio superior para separar el logo de Instagram del texto */
+  }
+  
+  /* Ajustar tamaño de fuente para una mejor legibilidad en pantallas de escritorio */
+  h1, h2 {
+    font-size: 24px; /* Tamaño de fuente ajustado para títulos en pantallas grandes */
+  }
+  
+  p {
+    font-size: 18px; /* Tamaño de fuente ajustado para párrafos en pantallas grandes */
+  }
+  
